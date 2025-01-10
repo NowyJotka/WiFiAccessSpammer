@@ -31,6 +31,8 @@ Easily configure a Wi-Fi hotspot on your rooted Android device using Termux with
 1. You can use the python code to automatize this process, and with another python tool you can repeat the process to do a host spammer
 2. **YOU CANT DO THIS WITH TERMUX FROM PlayStore OR WITH A NON-ROOTED PHONE**
 
+# You need to have installed Python and be rooted
+
 ## Configuration
 
 ### Create the `hostapd.conf` file
